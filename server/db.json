@@ -2,35 +2,35 @@
   "users": [
     {
       "id": 1,
-      "name": "John Doe",
       "email": "john@example.com",
-      "phone": "(123) 456-7890",
-      "location": "United States",
-      "company": "Example Inc.",
-      "status": "Online"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "phone": "(456) 789-0123",
+      "name": "John Doe",
+      "phone": "+3551234567890",
       "location": "Canada",
       "company": "Example Inc.",
       "status": "Offline"
     },
     {
+      "id": 2,
+      "email": "jane@example.com",
+      "name": "Jane Smith",
+      "phone": "(456) 789-0123",
+      "location": "Canada",
+      "company": "Example Inc.",
+      "status": "offline"
+    },
+    {
       "id": 3,
-      "name": "Matt Cannon",
       "email": "matt@facebook.com",
+      "name": "Matt Cannon",
       "phone": "(319) 098-9899",
       "location": "Australia",
       "company": "Facebook",
-      "status": "Offline"
+      "status": "Online"
     },
     {
       "id": 4,
-      "name": "Graham Hills",
       "email": "graham@twitter.com",
+      "name": "Graham Hills",
       "phone": "(540) 827-3880",
       "location": "India",
       "company": "Twitter",
@@ -38,8 +38,8 @@
     },
     {
       "id": 5,
-      "name": "Sandy Houston",
       "email": "sandy@youtube.com",
+      "name": "Sandy Houston",
       "phone": "(440) 410-3848",
       "location": "Canada",
       "company": "YouTube",
@@ -47,8 +47,8 @@
     },
     {
       "id": 6,
-      "name": "Andy Smith",
       "email": "andy@reddit.com",
+      "name": "Andy Smith",
       "phone": "(424) 458-3268",
       "location": "United States",
       "company": "Reddit",
@@ -65,8 +65,8 @@
     },
     {
       "id": 8,
-      "name": "Patrick Meyer",
       "email": "patrick@pinterest.com",
+      "name": "Patrick Meyer",
       "phone": "(760) 882-5670",
       "location": "United Kingdom",
       "company": "Pinterest",
@@ -83,9 +83,9 @@
     },
     {
       "id": 10,
-      "name": "Ernest Houston",
       "email": "ernest@linkedin.com",
-      "phone": "(704) 339-8813",
+      "name": "Ernest Houston",
+      "phone": "+7043398813",
       "location": "India",
       "company": "LinkedIn",
       "status": "Offline"
@@ -448,6 +448,33 @@
       "phone": "(202) 555-8901",
       "location": "Egypt",
       "company": "Elsewedy",
+      "status": "Offline"
+    },
+    {
+      "id": 1744715753869,
+      "email": "roberto@gmail.com",
+      "name": "Maximiliano Miño",
+      "phone": "",
+      "location": "",
+      "company": "",
+      "status": "Offline"
+    },
+    {
+      "id": 1744716020791,
+      "email": "roberto@gmail.com",
+      "name": "Maximiliano Miño",
+      "phone": "",
+      "location": "",
+      "company": "",
+      "status": "Online"
+    },
+    {
+      "id": 1744717774577,
+      "email": "roberto@gmail.com",
+      "name": "Roberrr",
+      "phone": "",
+      "location": "",
+      "company": "",
       "status": "Offline"
     }
   ],
